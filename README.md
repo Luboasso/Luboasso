@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciana</h1>
 <h3 align="center">A Junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [project_e-commerce_react](https://github.com/Luboasso/project_e-commerce_react.git)
+- 🔭 I’m currently working on [Articipe-SocialNetwork_React_Project](https://github.com/VeroPolegre/Articipe-SocialNetwork_React_Project.git)
 
 - 🌱 I’m currently learning **React**
 
