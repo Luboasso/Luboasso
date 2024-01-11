@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **luboasso16@gmail.com**
 
-- 📄 Know about my experiences **I'm currently a gymnastics coach but wanted to dive into web development, so I enrolled in the Full Stack Development Bootcamp by The Bridge Digital Talent Accelerator.**
+- 📄 Know about my experiences: **I'm currently a gymnastics coach but wanted to dive into web development, so I enrolled in the Full Stack Development Bootcamp by The Bridge Digital Talent Accelerator.**
 
-- ⚡ Fun fact **My first few projects are themed after the animated show Miraculous Ladybug . I really like the series and they inspire me to create cool things!**
+- ⚡ Fun fact: **My first few projects are themed after the animated show Miraculous Ladybug . I really like the series and they inspire me to create cool things!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
