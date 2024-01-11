@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciana</h1>
 <h3 align="center">A Junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [prueba-tecnica](https://github.com/Luboasso/prueba-tecnica.git)
+- 🔭 I’m currently working on [DT2024_server](https://github.com/frances0688/DT2024_server), [DT2024_client](https://github.com/frances0688/DT2024_client)
 
 - 🌱 I’m currently learning **React**
 
