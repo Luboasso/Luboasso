@@ -1,7 +1,7 @@
 ![LinkedIn Banner (1)](https://github.com/Luboasso/Luboasso/assets/69759992/c65882d8-e505-4b46-a900-e4f47436411c)
 <h1 align="center">Hi, I'm Luciana</h1>
 <h2 align="center">A Junior Full Stack Developer</h2>
-- 🔭 I’m currently working on [DT2024_server](https://github.com/frances0688/DT2024_server), [DT2024_client](https://github.com/frances0688/DT2024_client)
+- 🔭 I’m currently working on:
 
 - 🌱  Actively expanding my expertise in **React**
 
