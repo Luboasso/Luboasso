@@ -3,7 +3,7 @@
 <h2 align="center">A Junior Full Stack Developer</h2>
 - 🔭 I’m currently working on:
 
-- 🌱  Actively expanding my expertise in **React**
+- 🌱  Actively expanding my expertise in **Next.js & Typescript**
 
 - ✉️ Don't hesitate to reach out at luboasso16@gmail.com.
 
