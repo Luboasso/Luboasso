@@ -10,8 +10,6 @@
 - 📄 Learn about my journey: Recently graduated from The Bridge Digital Talent Accelerator's Full Stack Development Bootcamp, transitioning from a gymnastics coach to a well-versed web developer.
 - 💼 I'm currently and intern at Nevent.!
 
-- ✨ Fun fact: My first few projects draw inspiration from the animated show Miraculous Ladybug, a series that holds a special place in my heart. They reflect my passion for infusing creativity into everything I create!
-
 <h2 align="center">📫Connect with me:</h2>
 
 <div align: "center">
