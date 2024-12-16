@@ -8,7 +8,7 @@
 - ✉️ Don't hesitate to reach out at luboasso16@gmail.com.
 
 - 📄 Learn about my journey: Recently graduated from The Bridge Digital Talent Accelerator's Full Stack Development Bootcamp, transitioning from a gymnastics coach to a well-versed web developer.
-- 💼 I'm currently and intern at Nevent.!
+- 💼 I'm currently working for Capgemini!
 
 <h2 align="center">📫Connect with me:</h2>
 
